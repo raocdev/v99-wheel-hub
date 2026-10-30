@@ -6,9 +6,9 @@ Programa para Windows que configura o volante **PXN V99** pelo Bluetooth, direto
 
 **Versão atual: 1.0**
 
-![Aba Ajustes: volante, pedais e câmbio ao vivo](docs/tela_ajustes.jpg)
+![Aba Ajustes: volante, pedais e câmbio ao vivo](v99-wheel-hub/docs/tela_ajustes.jpg)
 
-![Aba Sistema: modo do volante, programa e idioma](docs/tela_sistema.jpg)
+![Aba Sistema: modo do volante, programa e idioma](v99-wheel-hub/docs/tela_sistema.jpg)
 
 ---
 
