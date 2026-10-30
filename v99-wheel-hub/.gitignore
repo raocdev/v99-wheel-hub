@@ -1,0 +1,10 @@
+# Compilação
+build/
+dist/
+*.spec
+__pycache__/
+
+# Dados e log do usuário
+perfis_v99.json
+config_v99.json
+v99_log.txt*
